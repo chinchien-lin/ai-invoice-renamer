@@ -1,0 +1,5 @@
+{
+  "name": "AI Invoice Renamer",
+  "description": "A web application to rename PDF invoices based on their extracted contents using AI.",
+  "requestFramePermissions": []
+}
